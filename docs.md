@@ -1,5 +1,5 @@
 This documentation describes how to use the Kar-el automatic
-toothbrush. TEST TEST TEST
+toothbrush. TEST TEST TEST ANTI-PATTERN
 
 Note that this toothbrush is totally safe to use for children,
 adults, pets, wildlife, and trees.
