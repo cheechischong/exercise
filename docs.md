@@ -4,4 +4,4 @@ toothbrush.
 Note that this toothbrush is totally safe to use for children,
 adults, pets, wildlife, and trees.
 
-The toothbrush requires 2x AAA batteries.
+The toothbrush requires 2x AAA batteries. TEST TEST TEST
